@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book ID="08">
+    <Title>Hoc lap trinh Wordpress</Title>
+    <Author>512</Author>
+  </Book>
+  <Book ID="03">
+    <Title>Hoc lap trinh PHP</Title>
+    <Author>KMA</Author>
+  </Book>
+  <Book ID="04">
+    <Title>Học đồ họa với Photoshop</Title>
+    <Author>TXT</Author>
+  </Book>
+</Books>

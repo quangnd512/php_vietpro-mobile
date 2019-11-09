@@ -1,0 +1,11 @@
+<?xlm encoding="tf8"?>
+<books> <!--Phần tử gốc-->
+    <book ID="01"> <!--Phần tử con-->
+        <title>Lập trình Wordpress</title> <!--Phần tử con-->
+        <author>Quangnd</author> <!--Phần tử con-->
+    </book>
+    <book ID="02">
+        <title>Lập trình Jomla</title>
+        <author>512</author>
+    </book>
+</books>
